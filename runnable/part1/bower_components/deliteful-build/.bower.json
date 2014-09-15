@@ -1,0 +1,37 @@
+{
+  "name": "deliteful-build",
+  "version": "0.3.0-alpha",
+  "dependencies": {
+    "requirejs": "2.1.x",
+    "dstore": "0.2.0",
+    "decor-build": "0.2.0-dev",
+    "delite-build": "0.3.0-alpha",
+    "dpointer-build": "0.3.x",
+    "ecma402-build": "0.2.x"
+  },
+  "keywords": [
+    "web-components",
+    "delite",
+    "custom-elements"
+  ],
+  "ignore": [
+    ".jshintrc",
+    ".gitattributes",
+    ".travis.yml",
+    "tests",
+    "CONTRIBUTING.md"
+  ],
+  "devDependencies": {
+    "deliteful": "0.3.0-alpha"
+  },
+  "homepage": "https://github.com/ibm-js/deliteful-build",
+  "_release": "0.3.0-alpha",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.3.0-alpha",
+    "commit": "64e521daab87cb73e4b749a0a60616db0412240a"
+  },
+  "_source": "git://github.com/ibm-js/deliteful-build.git",
+  "_target": "0.3.x",
+  "_originalSource": "deliteful-build"
+}

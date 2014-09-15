@@ -1,0 +1,21 @@
+{
+	"name": "requirejs-dplugins",
+	"version": "0.2.2-dev",
+	"description": "AMD plugins for RequireJS",
+	"keywords": [
+		"requirejs",
+		"amd",
+		"plugins",
+		"plugin",
+		"i18n",
+		"has"
+	],
+	"license": "BSD 3-clause",
+	"ignore": [
+		"**/.*",
+		"tests",
+		"CONTRIBUTING.md",
+		"Gruntfile.js",
+		"package.json"
+	]
+}
