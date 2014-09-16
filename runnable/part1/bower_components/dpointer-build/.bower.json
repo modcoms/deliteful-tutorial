@@ -1,11 +1,11 @@
 {
   "name": "dpointer-build",
-  "version": "0.3.0-alpha",
+  "version": "0.3.1",
   "dependencies": {
     "requirejs-dplugins": "0.2.x"
   },
   "devDependencies": {
-    "dpointer": "0.3.0-alpha"
+    "dpointer": "0.3.1"
   },
   "ignore": [
     ".jshintrc",
@@ -15,11 +15,11 @@
     "CONTRIBUTING.md"
   ],
   "homepage": "https://github.com/ibm-js/dpointer-build",
-  "_release": "0.3.0-alpha",
+  "_release": "0.3.1",
   "_resolution": {
     "type": "version",
-    "tag": "0.3.0-alpha",
-    "commit": "30fdee4815011b6be95f61791e3f91d77edc35d8"
+    "tag": "0.3.1",
+    "commit": "40248ebe04a61b2175db9a6c70d53a5d957f8fca"
   },
   "_source": "git://github.com/ibm-js/dpointer-build.git",
   "_target": "0.3.x",

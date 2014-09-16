@@ -1,16 +1,16 @@
 {
   "name": "delite-build",
-  "version": "0.3.0-alpha",
+  "version": "0.3.0",
   "dependencies": {
     "dojo": ">=1.9.1",
     "requirejs": "2.1.x",
     "requirejs-domready": "2.0.x",
     "requirejs-text": "2.0.x",
-    "decor-build": "0.2.0-dev",
+    "decor-build": "0.2.1",
     "dpointer-build": "0.3.x"
   },
   "devDependencies": {
-    "delite": "0.3.0-alpha"
+    "delite": "0.3.0"
   },
   "ignore": [
     ".jshintrc",
@@ -20,13 +20,13 @@
     "CONTRIBUTING.md"
   ],
   "homepage": "https://github.com/ibm-js/delite-build",
-  "_release": "0.3.0-alpha",
+  "_release": "0.3.0",
   "_resolution": {
     "type": "version",
-    "tag": "0.3.0-alpha",
-    "commit": "0155f1b3fdc6c9a6631fd60c57809f687abb387c"
+    "tag": "0.3.0",
+    "commit": "0008786be25b78bb547862198377140b7a01e64f"
   },
   "_source": "git://github.com/ibm-js/delite-build.git",
-  "_target": "0.3.0-alpha",
+  "_target": "0.3.0",
   "_originalSource": "delite-build"
 }

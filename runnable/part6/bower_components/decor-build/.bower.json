@@ -1,9 +1,9 @@
 {
   "name": "decor-build",
-  "version": "0.2.0-dev",
+  "version": "0.2.1",
   "dependencies": {},
   "devDependencies": {
-    "decor": "0.2.0-dev"
+    "decor": "0.2.1"
   },
   "ignore": [
     ".jshintrc",
@@ -13,13 +13,13 @@
     "CONTRIBUTING.md"
   ],
   "homepage": "https://github.com/ibm-js/decor-build",
-  "_release": "0.2.0-dev",
+  "_release": "0.2.1",
   "_resolution": {
     "type": "version",
-    "tag": "0.2.0-dev",
-    "commit": "7833f2d909f26698dd9f1a9c4ff0e4bee6076b83"
+    "tag": "0.2.1",
+    "commit": "8ac09ba4133739222a414ac6c07a288d9c77c873"
   },
   "_source": "git://github.com/ibm-js/decor-build.git",
-  "_target": "0.2.0-dev",
+  "_target": "0.2.1",
   "_originalSource": "decor-build"
 }
