@@ -51,3 +51,11 @@
 .d-side-pane {
 	border-right: 1px solid #357ebd;
 }
+
+.width100 {
+    width: 100%;
+}
+
+.height100 {
+    height: 100%;
+}
