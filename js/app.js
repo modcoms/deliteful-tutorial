@@ -1,9 +1,3 @@
-require.config({
-	baseUrl: "bower_components",
-	config: {
-		"ecma402/locales": ["en-us"]
-	}
-});
 require([
 	"delite/register", "dstore/Memory", "deliteful/list/ItemRenderer", "delite/handlebars", "ecma402/Intl",
 	"delite/theme!delite/themes/{{theme}}/global.css", "deliteful/ViewStack", "deliteful/SidePane",
